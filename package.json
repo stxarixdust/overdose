@@ -1,0 +1,21 @@
+{
+    "name": "overdose",
+    "displayName": "OVERDOSE :3",
+    "description": "A pastel pink and blue mess!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OVERDOSE :3",
+                "uiTheme": "vs",
+                "path": "./themes/OVERDOSE 3-color-theme.json"
+            }
+        ]
+    }
+}
